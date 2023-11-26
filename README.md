@@ -32,8 +32,6 @@ Welcome to the Computer Networks Socket Programming repository in C! This collec
 
 Clone the repository to your local machine and navigate to the relevant examples. Each code snippet is accompanied by detailed comments to guide you through the implementation. Whether you're a beginner or an experienced developer, these examples aim to enhance your understanding of socket programming in C.
 
-Feel free to experiment, modify, and incorporate these examples into your own projects. Your contributions and feedback are highly encouraged!
-
 ### Prerequisites
 - Ensure that you have `gcc` installed on your Ubuntu system. If not, you can install it using the following command:
   ```bash
@@ -68,7 +66,7 @@ Feel free to experiment, modify, and incorporate these examples into your own pr
      ```
 ## Contribution Guidelines
 
-If you have improvements, bug fixes, or additional examples to share, please follow the contribution guidelines outlined in the repository. Together, we can create a valuable resource for the community.
+If you have improvements, bug fixes, or additional examples to share, feel free to experiment, modify, and incorporate these examples into your own projects. Your contributions and feedback are highly encouraged!
 
 ## License
 
