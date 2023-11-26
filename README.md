@@ -6,7 +6,7 @@
 
 <a href="https://github.com/AtharvaKulkarniIT/Computer-Networks-Socket-Programming"><img src="https://sloc.xyz/github/AtharvaKulkarniIT/Computer-Networks-Socket-Programming" alt="LOC"/></a>
 <a href="https://github.com/AtharvaKulkarniIT/Computer-Networks-Socket-Programming"><img src="https://visitor-badge.laobi.icu/badge?page_id=AtharvaKulkarniIT.Computer-Networks-Socket-Programming" alt="Visitors"/></a>
-<a href="https://github.com/AtharvaKulkarniIT/Computer-Networks-Socket-Programming/stargazers"><img src="https://img.shields.io/github/stars/AtharvaKulkarniIT/Computer-Networks-Socket-Programming" alt="Stars Badge"/></a>
+<a href="https://github.com/AtharvaKulkarniIT/Computer-Networks-Socket-Programming/stargazers"><img src="https://img.shields.io/github/stars/AtharvaKulkarniIT/Computer-Networks-Socket-Programming" alt="Stars"/></a>
 
 
 Welcome to the Computer Networks Socket Programming in C! This collection of code examples is designed to help developers grasp the fundamentals and intricacies of socket programming for building networked applications.
