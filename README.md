@@ -78,4 +78,4 @@ If you have improvements, bug fixes or additional examples to share, feel free t
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify and distribute the code as per the terms of the license.
